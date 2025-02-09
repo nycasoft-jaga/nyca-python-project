@@ -1,4 +1,4 @@
-# NYCA Time Schedule
+# NYCA Python project
 
 This project generates a timetable for a specified number of months starting from a given date. It also includes a simple calculator for basic arithmetic operations.
 
