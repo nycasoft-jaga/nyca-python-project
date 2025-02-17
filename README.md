@@ -39,10 +39,10 @@ The dataset should be a CSV file (`loan_data.csv`) with the following columns:
 - `default`: Binary column (1 = default, 0 = no default)
 
 ## Model Explanation
-**Feature Selection:** Uses credit_score, income, loan_amount, loan_term, and interest_rate.
-**Normalization:** Standardizes features for better performance.
-**Dimensionality Reduction:** Uses PCA to reduce features to two principal components.
-**Logistic Regression:** Predicts the probability of loan default.
+**Feature Selection:** Uses credit_score, income, loan_amount, loan_term, and interest_rate.<br/>
+**Normalization:** Standardizes features for better performance.<br/>
+**Dimensionality Reduction:** Uses PCA to reduce features to two principal components.<br/>
+**Logistic Regression:** Predicts the probability of loan default.<br/>
 **Evaluation:** Prints model accuracy and sample probabilities.
 
 ## License
