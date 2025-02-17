@@ -1,6 +1,6 @@
 # NYCA Python project
 
-This project generates a timetable for a specified number of months starting from a given date. It also includes a simple calculator for basic arithmetic operations.
+This project is about loan default prediction of private investment firm customers.
 
 ## Project Structure
 
