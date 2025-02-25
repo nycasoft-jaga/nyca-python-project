@@ -51,6 +51,3 @@ _python datasets.py_
 
 #### Install the required packages using:
 _pip install pandas numpy matplotlib seaborn scikit-learn_
-
-### License
-This project is licensed under the MIT License.
