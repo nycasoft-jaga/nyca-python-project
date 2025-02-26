@@ -16,7 +16,6 @@ The model utilizes logistic regression with principal component analysis (PCA) f
 
 Ensure you have the following Python libraries installed:
 
-    ```bash
     pip install numpy pandas scikit-learn
 
 ## **Usage**
