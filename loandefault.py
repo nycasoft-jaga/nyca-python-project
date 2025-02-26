@@ -14,7 +14,7 @@ plt.plot(x, norm.pdf(x, np.mean(credit_scores), np.std(credit_scores)), 'r-', lw
 plt.title("Normal Distribution of Credit Scores")
 plt.xlabel("Credit Score")
 plt.ylabel("Density")
-plt.show()
+# plt.show()
 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
